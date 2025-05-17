@@ -1,1 +1,4 @@
 
+[submodule "configs/dotfiles"]
+	path = configs/dotfiles
+	url = git@github.com:sthasam2/dotfiles.git
